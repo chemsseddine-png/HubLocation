@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+	<version>1.0</version>
+	<configs>
+		<config category="opl" default="false" name="Configuration 1">
+			<ref name="TpRo.mod" type="model">
+			</ref>
+			<ref name="TpRo.dat" type="data">
+			</ref>
+		</config>
+		<config category="opl" default="true" name="Configuration 2">
+			<ref name="TpRo.mod" type="model">
+			</ref>
+			<ref name="TpRo.dat" type="data">
+			</ref>
+		</config>
+	</configs>
+	
+</project>
